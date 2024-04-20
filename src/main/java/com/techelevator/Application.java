@@ -26,7 +26,7 @@ public class Application {
 
 		while (!readValue.equals("3")) {
 
-			// print main menu items
+			
 			printMainMenu();
 
 			// get user input
@@ -40,7 +40,7 @@ public class Application {
 					break;
 				case "2":
 					// user wants to make a purchase
-					// clear screen and start a ne session	
+					// clear screen and start a new session	
 					Utilities.clearScreen();
 					Session session = new Session();
 					session.startSession();
