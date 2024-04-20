@@ -52,7 +52,7 @@ public class Inventory {
         Inventory.products = products;
     }
 
-    // this method prints inventory items on the scree
+    // this method prints inventory items on the screen
     public static void PrintInventory(){
         Utilities.printLine();
         Utilities.printLine("Slot Qty   Product             Price");
