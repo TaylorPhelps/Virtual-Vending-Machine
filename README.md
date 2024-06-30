@@ -34,7 +34,7 @@ After running the project, you will be presented with the following options:
 
 ### Display Vending Machine Items
 
-When you selects "(1) Display Vending Machine Items", you will be presented with a list of all items in the vending machine with its quantity remaining:
+When you select "(1) Display Vending Machine Items", you will be presented with a list of all items in the vending machine with its quantity remaining:
 
 - Each vending machine product has a slot identifier and a purchase price.
 - A product that has run out will indicate that it's SOLD OUT.
